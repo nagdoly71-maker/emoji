@@ -57,7 +57,7 @@ By default, the language is English (``language='en'``) but also supported langu
     Python é 👍
     >>> print(emoji.demojize("Python é 👍", language='pt'))
     Python é :polegar_para_cima:️
-
+    Python es :earth_asia:
 ..
 
 Installation
